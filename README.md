@@ -1,6 +1,6 @@
 # ChangeTabLayout
 
-[![Stars](https://img.shields.io/github/stars/simplezhli/ChangeTabLayout.svg)](https://github.com/simplezhli/ChangeTabLayout/stargazers) [![LICENSE](https://img.shields.io/badge/license-Apache%202-blue.svg)]
+[![Stars](https://img.shields.io/github/stars/simplezhli/ChangeTabLayout.svg)](https://github.com/simplezhli/ChangeTabLayout/stargazers) ![LICENSE](https://img.shields.io/badge/license-Apache%202-blue.svg)
 
 ChangeTabLayout是模仿乐视LIVE App主界面TabLayout效果。
 
@@ -10,9 +10,6 @@ ChangeTabLayout是模仿乐视LIVE App主界面TabLayout效果。
 
 原效果图转为Gif过大，所以将录制的MP4效果视频已经放入了根目录的[preview](/preview)文件夹内，有兴趣可去查看。
 
-实现效果图
-
-![preview](/preview/preview.gif)
 
 #### `ChangeTabLayout`在打开状态时
 
@@ -28,7 +25,6 @@ ChangeTabLayout是模仿乐视LIVE App主界面TabLayout效果。
 
 ```
 compile 'com.github.cllstudy:ChangeTabLayout:v1.1'
-
 ```
 
 ### xml使用部分
